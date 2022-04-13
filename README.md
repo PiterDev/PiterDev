@@ -1,7 +1,7 @@
 
 ## Hello!
-I’m **@PewolfP**. I'm a python programmer, gamdev and discord bot maker.
-My discord: **Piter#1234**
+I’m **@PiterDev**. I'm a python programmer, gamdev and discord bot maker.
+My discord: **Piter#0001**
 
 
 <!---
