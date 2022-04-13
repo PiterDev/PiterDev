@@ -1,8 +1,6 @@
 
 ## Hello!
-I’m **@PewolfP**. I'm a python programmer that loves discord and makes bots.
-If you want to collab contact me! I'd happily help you with discord.py. 
-
+I’m **@PewolfP**. I'm a python programmer, gamdev and discord bot maker.
 My discord: **Piter#1234**
 
 
