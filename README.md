@@ -1,6 +1,6 @@
 
 ## Hello!
-I’m **@PiterDev**. I'm a python programmer, gamdev and discord bot maker.
+I’m **@PiterDev**. I'm a python programmer and Godot gamedev.
 My discord: **Piter#0001**
 
 
