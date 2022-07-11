@@ -1,7 +1,12 @@
 
 ## Hello!
-I’m **@PiterDev**. I'm a python programmer and Godot gamedev.
+I’m **@PiterDev**! 👋 
 
+I'm a learning Python and Godot.
+
+Currently also learning Linux after switching to it.
+
+### My Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PiterDev&show_icons=true&theme=tokyonight)
 
 <!---
