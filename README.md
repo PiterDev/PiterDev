@@ -1,6 +1,6 @@
 
 ## Hello!
-I’m [**@PiterDev**](https://github.com/PiterDev)! 👋 
+I’m **@PiterDev**! 👋 
 
 I'm currently learning Python and Godot Engine.
 
