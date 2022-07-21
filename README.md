@@ -4,7 +4,7 @@ I’m **@PiterDev**! 👋
 
 I'm currently learning Python and Godot Engine.
 
-Currently also learning Linux after switching to it.
+I am a based Linux user 🗿. (Kubuntu)
 
 ### My Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PiterDev&show_icons=true&theme=tokyonight)
